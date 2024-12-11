@@ -1,8 +1,8 @@
-model,fatalities
-707,115
-727,509
-737,2045
-747,871
-757,110
-767,502
-777,544
+model,parent,fatalities
+707,Origin,115
+727,Origin,509
+737,Origin,2045
+747,Origin,871
+757,Origin,110
+767,Origin,502
+777,Origin,544
